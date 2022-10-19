@@ -1,6 +1,7 @@
 # Park Byeongju
 
-<div align=center> 
+<div align=center>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbyeongjuPark&count_bg=%2373CDBC&title_bg=%2357BCF1&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  
@@ -11,5 +12,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pbj2577)](https://solved.ac/pbj2577)  
 ![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjuPark&show_icons=true&theme=cobalt)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjuPark)](https://github.com/byeongjuPark/github-readme-stats)
+  
+  </div>
   
   </div>
