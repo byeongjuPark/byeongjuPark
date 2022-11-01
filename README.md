@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pbj2577)](https://solved.ac/pbj2577)  
-![Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjuPark&show_icons=true&theme=cobalt)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjuPark_count=10&layout=compact&theme=dark)](https://github.com/byeongjuPark/byeongjuPark)
+| <a href="https://github.com/byeongjuPark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byeongjuPark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="byeongjuPark's github stats" /></a> | <a href="https://github.com/byeongjuPark/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjuPark&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
   
   </div>
